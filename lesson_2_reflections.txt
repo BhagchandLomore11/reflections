@@ -34,6 +34,7 @@ visualize the branch structure helps to see which branch will be lost if you doe
 
 
 What is the result of merging two branches together?
+to bring the changes in the single file.
 
 
 
