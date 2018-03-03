@@ -41,6 +41,13 @@ to bring the changes in the single file.
 
 Why do we represent it in
 the diagram the way we do?
+to get the clear understanding of different branches and master branch of the project
+
+
+
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+ manually?
+
+pros - one can always know which changes to keep which not.
+cons - manual efferts
