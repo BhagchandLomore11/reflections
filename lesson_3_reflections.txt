@@ -42,7 +42,8 @@ it will be helpful to know the state of the project.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-     
+  
+Git and Github can be really useful to do long distance collaboration. It might take some time to learn though.   
 
 
 
