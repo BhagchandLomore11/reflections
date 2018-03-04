@@ -50,5 +50,9 @@ Git and Github can be really useful to do long distance collaboration. It might 
 you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    
+ 
+making changes to seperate branch  does not spoil my original code and i can so the older code to others late later on
+if i want to update .. i can do that as well. 
+pros - keep my earlier code neat
+cons - more hardwork   
 
